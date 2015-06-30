@@ -1,0 +1,3 @@
+This is a project carried out at Technicolor R&I, Rennes, France.
+In this project, we have developed an Android application to record  video/audio from the built-in camera of the running mobile device as well as data from the device's sensors such as accelerometer, gyroscope. The video and the sensors' data will be aligned so that they could be rendered synchronously afterward using some dedicated devices/ applications.
+Within this project, to serve to purpose of aligning the video and the sensors' data, we used the library ffmpeg4android as a tool to extract audio as a part of the process.
